@@ -23,7 +23,14 @@ Proyek ini terdiri dari 2 script utama:
 
 - **CSV per jenis anomali** — data mentah untuk analisis lanjutan
 - **Peta interaktif (HTML)** — visualisasi lokasi semua event, bisa toggle on/off per jenis anomali
+  <img width="1898" height="903" alt="image" src="https://github.com/user-attachments/assets/16808c25-58bd-4511-82c6-c0bda5048f18" />
+  <img width="1906" height="906" alt="image" src="https://github.com/user-attachments/assets/e1110feb-f9c1-40cf-b842-ebb833ba2cca" />
 - **Grafik EDA (PNG)** — distribusi durasi, top negara bendera kapal, tipe encounter
+  <img width="2160" height="600" alt="image" src="https://github.com/user-attachments/assets/b69fb05c-e200-4d74-ac4e-92621a7f0ecb" />
+  <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/0a66c90e-bedc-48e9-95cd-53cdc73a8adc" />
+  <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/e63f3757-e1b8-46a8-a793-4e936eaad8cf" />
+  <img width="840" height="600" alt="image" src="https://github.com/user-attachments/assets/c4a251b6-7beb-4a19-83ed-8d0dfc2cd1fa" />
+
 - **Daftar kapal mencurigakan** — kapal yang muncul di lebih dari satu jenis anomali 
 
 ## Catatan & Batasan
